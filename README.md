@@ -1,2 +1,2 @@
 # CryptRaiderCode
-Project made following a course
+Project made following an online course (GameDev.tv)
